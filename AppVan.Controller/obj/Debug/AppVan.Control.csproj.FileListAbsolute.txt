@@ -1,0 +1,24 @@
+C:\Users\Administrador\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Controller\bin\Debug\AppVan.Controller.dll
+C:\Users\Administrador\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Controller\bin\Debug\AppVan.Controller.pdb
+C:\Users\Administrador\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Control.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Control.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Controller.dll
+C:\Users\Administrador\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Controller.pdb
+C:\Users\luanf\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Controller\bin\Debug\AppVan.Controller.dll
+C:\Users\luanf\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Controller\bin\Debug\AppVan.Controller.pdb
+C:\Users\luanf\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Control.csprojAssemblyReference.cache
+C:\Users\luanf\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Control.csproj.CoreCompileInputs.cache
+C:\Users\luanf\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Controller.dll
+C:\Users\luanf\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Controller.pdb
+C:\Users\luanf\OneDrive\Área de Trabalho\Telas_Katia\Projeto_Pcc\AppVan.Controller\bin\Debug\AppVan.Controller.dll
+C:\Users\luanf\OneDrive\Área de Trabalho\Telas_Katia\Projeto_Pcc\AppVan.Controller\bin\Debug\AppVan.Controller.pdb
+C:\Users\luanf\OneDrive\Área de Trabalho\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Control.csprojAssemblyReference.cache
+C:\Users\luanf\OneDrive\Área de Trabalho\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Control.csproj.CoreCompileInputs.cache
+C:\Users\luanf\OneDrive\Área de Trabalho\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Controller.dll
+C:\Users\luanf\OneDrive\Área de Trabalho\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Controller.pdb
+C:\Users\luanf\OneDrive\Documentos\Telas_Katia\Projeto_Pcc\AppVan.Controller\bin\Debug\AppVan.Controller.dll
+C:\Users\luanf\OneDrive\Documentos\Telas_Katia\Projeto_Pcc\AppVan.Controller\bin\Debug\AppVan.Controller.pdb
+C:\Users\luanf\OneDrive\Documentos\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Control.csproj.AssemblyReference.cache
+C:\Users\luanf\OneDrive\Documentos\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Control.csproj.CoreCompileInputs.cache
+C:\Users\luanf\OneDrive\Documentos\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Controller.dll
+C:\Users\luanf\OneDrive\Documentos\Telas_Katia\Projeto_Pcc\AppVan.Controller\obj\Debug\AppVan.Controller.pdb

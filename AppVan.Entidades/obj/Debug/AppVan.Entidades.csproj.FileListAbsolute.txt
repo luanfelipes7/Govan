@@ -1,0 +1,18 @@
+C:\Users\Administrador\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Entidades\bin\Debug\AppVan.Entidades.dll
+C:\Users\Administrador\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Entidades\bin\Debug\AppVan.Entidades.pdb
+C:\Users\Administrador\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Entidades\obj\Debug\AppVan.Entidades.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Entidades\obj\Debug\AppVan.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Entidades\obj\Debug\AppVan.Entidades.dll
+C:\Users\Administrador\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Entidades\obj\Debug\AppVan.Entidades.pdb
+C:\Users\luanf\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Entidades\bin\Debug\AppVan.Entidades.dll
+C:\Users\luanf\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Entidades\bin\Debug\AppVan.Entidades.pdb
+C:\Users\luanf\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Entidades\obj\Debug\AppVan.Entidades.csprojAssemblyReference.cache
+C:\Users\luanf\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Entidades\obj\Debug\AppVan.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\luanf\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Entidades\obj\Debug\AppVan.Entidades.dll
+C:\Users\luanf\Desktop\Telas_Katia\Projeto_Pcc\AppVan.Entidades\obj\Debug\AppVan.Entidades.pdb
+C:\Users\luanf\OneDrive\Área de Trabalho\Telas_Katia\Projeto_Pcc\AppVan.Entidades\bin\Debug\AppVan.Entidades.dll
+C:\Users\luanf\OneDrive\Área de Trabalho\Telas_Katia\Projeto_Pcc\AppVan.Entidades\bin\Debug\AppVan.Entidades.pdb
+C:\Users\luanf\OneDrive\Área de Trabalho\Telas_Katia\Projeto_Pcc\AppVan.Entidades\obj\Debug\AppVan.Entidades.csprojAssemblyReference.cache
+C:\Users\luanf\OneDrive\Área de Trabalho\Telas_Katia\Projeto_Pcc\AppVan.Entidades\obj\Debug\AppVan.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\luanf\OneDrive\Área de Trabalho\Telas_Katia\Projeto_Pcc\AppVan.Entidades\obj\Debug\AppVan.Entidades.dll
+C:\Users\luanf\OneDrive\Área de Trabalho\Telas_Katia\Projeto_Pcc\AppVan.Entidades\obj\Debug\AppVan.Entidades.pdb

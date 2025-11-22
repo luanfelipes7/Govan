@@ -1,0 +1,11 @@
+C:\Users\curso.ads\source\repos\Projeto_Pcc\Projeto_Pcc\bin\Debug\Projeto_Pcc.exe.config
+C:\Users\curso.ads\source\repos\Projeto_Pcc\Projeto_Pcc\bin\Debug\Projeto_Pcc.exe
+C:\Users\curso.ads\source\repos\Projeto_Pcc\Projeto_Pcc\bin\Debug\Projeto_Pcc.pdb
+C:\Users\curso.ads\source\repos\Projeto_Pcc\Projeto_Pcc\obj\Debug\Projeto_Pcc.csprojAssemblyReference.cache
+C:\Users\curso.ads\source\repos\Projeto_Pcc\Projeto_Pcc\obj\Debug\Projeto_Pcc.Properties.Resources.resources
+C:\Users\curso.ads\source\repos\Projeto_Pcc\Projeto_Pcc\obj\Debug\Projeto_Pcc.TelaLogin.resources
+C:\Users\curso.ads\source\repos\Projeto_Pcc\Projeto_Pcc\obj\Debug\Projeto_Pcc.csproj.GenerateResource.cache
+C:\Users\curso.ads\source\repos\Projeto_Pcc\Projeto_Pcc\obj\Debug\Projeto_Pcc.csproj.CoreCompileInputs.cache
+C:\Users\curso.ads\source\repos\Projeto_Pcc\Projeto_Pcc\obj\Debug\Projeto_Pcc.exe
+C:\Users\curso.ads\source\repos\Projeto_Pcc\Projeto_Pcc\obj\Debug\Projeto_Pcc.pdb
+C:\Users\curso.ads\source\repos\Projeto_Pcc\Projeto_Pcc\obj\Debug\Projeto_Pcc.TelaPrincipal.resources
